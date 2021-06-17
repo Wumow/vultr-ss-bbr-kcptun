@@ -3,12 +3,6 @@
     "local_address": "127.0.0.1", 
     "local_port": 1080, 
     "port_password": {
-        "6667": "wumow1989",
-        "12400": "wumow1989",
-        "28910": "wumow1989",
-        "29900": "wumow1989",
-        "29901": "wumow1989",
-        "29920": "wumow1989",
         "8887": "wumow1989",
         "8888": "wumow1989", 
         "8889": "wumow1989",
